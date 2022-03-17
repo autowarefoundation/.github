@@ -11,10 +11,11 @@ The Autoware Foundation manages the development of Autoware, the world's leading
   - Library/utility type repository containing commonly referenced ROS packages. 
   - These packages were moved to a separate repository in order to reduce CI execution time
 - [autowarefoundation/autoware.core](https://github.com/autowarefoundation/autoware.core)
-  - Core repository containing high-quality and stable ROS packages for Autonomous Driving.
+  - Main repository for high-quality, stable ROS packages for Autonomous Driving.
   - Based on [Autoware.Auto](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto) and [Autoware.Universe](https://github.com/autowarefoundation/autoware.universe).
 - [autowarefoundation/autoware.universe](https://github.com/autowarefoundation/autoware.universe)
-  - Core repository containing experimental but cutting-edge ROS packages for Autonomous Driving.
+  - Repository for experimental, cutting-edge ROS packages for Autonomous Driving.
+  - Autoware Universe was created to make it easier for researchers and developers to extend the functionality of Autoware Core
 - [autowarefoundation/autoware_launch](https://github.com/autowarefoundation/autoware_launch)
   - Launch configuration repository containing node configurations and their parameters.
 - [autowarefoundation/autoware-github-actions](https://github.com/autowarefoundation/autoware-github-actions)
