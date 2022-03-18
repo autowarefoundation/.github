@@ -19,8 +19,8 @@ The [Autoware Foundation](https://www.autoware.org/) manages the development of 
 - [autowarefoundation/autoware_launch](https://github.com/autowarefoundation/autoware_launch)
   - Launch configuration repository containing node configurations and their parameters.
 - [autowarefoundation/autoware-github-actions](https://github.com/autowarefoundation/autoware-github-actions)
-  - Contains [reusable GitHub Actions workflows](https://docs.github.com/ja/actions/learn-github-actions/reusing-workflows).
-  - Since Autoware has many repositories, making CI scripts DRY is efficient.
+  - Contains [reusable GitHub Actions workflows](https://docs.github.com/ja/actions/learn-github-actions/reusing-workflows) used by multiple repositories for CI.
+  - Utilizes the [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) concept.
 - [autowarefoundation/autoware-documentation](https://github.com/autowarefoundation/autoware-documentation)
   - Documentation repository for Autoware users and developers.
   - Since Autoware Core/Universe has multiple repositories, a central documentation repository is important to make information accessible from a single place.
