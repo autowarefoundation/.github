@@ -23,10 +23,12 @@ The Autoware Foundation manages the development of Autoware, the world's leading
   - Since Autoware has many repositories, making CI scripts DRY is efficient.
 - [autowarefoundation/autoware-documentation](https://github.com/autowarefoundation/autoware-documentation)
   - Documentation repository for Autoware users and developers.
-  - Since Autoware Core/Universe has multiple repositories, a central documentation repository is more user-friendly than writing distributed documentation in each repository.
+  - Since Autoware Core/Universe has multiple repositories, a central documentation repository is important to make information accessible from a single place.
 
 ### Contribution guidelines
-[There is no formal process to becoming a contributor!](https://github.com/autowarefoundation/autoware-projects/wiki#contributors). If you want to become a contributor then you can comment on any [existing issues](https://github.com/autowarefoundation/autoware.universe/issues) or make a pull request on any Autoware repository. 
+[There is no formal process to become a contributor!](https://github.com/autowarefoundation/autoware-projects/wiki#contributors). If you want to become a contributor then you can comment on any [existing issues](https://github.com/autowarefoundation/autoware.universe/issues) or make a pull request on any Autoware repository. 
+
+Make sure to follow the [Contribution Guidelines](https://autowarefoundation.github.io/autoware-documentation/main/contributing/)!
 
 Before jumping in, we do recommend taking a look at Autoware's [working groups](https://github.com/autowarefoundation/autoware-projects/wiki#working-group-list) to see how Autoware projects are managed and to gain an understanding of any work in progress.
 
