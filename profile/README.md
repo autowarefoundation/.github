@@ -1,7 +1,7 @@
 ## Welcome to the Autoware Foundation! 👋
-![Autoware stack](https://static.wixstatic.com/media/984e93_552e338be28543c7949717053cc3f11f~mv2.png/v1/crop/x_0,y_1,w_1500,h_879/fill/w_1079,h_633,al_c,usm_0.66_1.00_0.01,enc_auto/Autoware-GFX_edited.png)
+![Autoware_RViz](https://user-images.githubusercontent.com/63835446/158918717-58d6deaf-93fb-47f9-891d-e242b02cba7b.png)
 
-The Autoware Foundation manages the development of Autoware, the world's leading open-source software project for autonomous driving, and sponsors Autoware-based projects all over the world. Autoware was started in 2015 and is being used by over 100 companies on more than 30 vehicles in over 20 different countries worldwide. 
+The [Autoware Foundation](https://www.autoware.org/) manages the development of Autoware, the world's leading open-source software project for autonomous driving, and sponsors Autoware-based projects all over the world. Autoware was started in 2015 and is being used by over 100 companies on more than 30 vehicles in over 20 different countries worldwide. 
 
 ### Repository overview
 - [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware)
@@ -26,17 +26,11 @@ The Autoware Foundation manages the development of Autoware, the world's leading
   - Since Autoware Core/Universe has multiple repositories, a central documentation repository is important to make information accessible from a single place.
 
 ### Contribution guidelines
-[There is no formal process to become a contributor!](https://github.com/autowarefoundation/autoware-projects/wiki#contributors). If you want to become a contributor then you can comment on any [existing issues](https://github.com/autowarefoundation/autoware.universe/issues) or make a pull request on any Autoware repository. 
-
-Make sure to follow the [Contribution Guidelines](https://autowarefoundation.github.io/autoware-documentation/main/contributing/)!
-
-Before jumping in, we do recommend taking a look at Autoware's [working groups](https://github.com/autowarefoundation/autoware-projects/wiki#working-group-list) to see how Autoware projects are managed and to gain an understanding of any work in progress.
-
-If you have any questions or ideas, feel free to start a discussion on [GitHub Discussions in autowarefoundation/autoware](https://github.com/autowarefoundation/autoware/discussions).
+- [There is no formal process to become a contributor](https://github.com/autowarefoundation/autoware-projects/wiki#contributors) - you can comment on any [existing issues](https://github.com/autowarefoundation/autoware.universe/issues) or make a pull request on any Autoware repository! 
+  - Make sure to follow the [Contribution Guidelines](https://autowarefoundation.github.io/autoware-documentation/main/contributing/). 
+  - Take a look at Autoware's [various working groups](https://github.com/autowarefoundation/autoware-projects/wiki#working-group-list) to gain an understanding of any work in progress and to see how projects are managed.
+- If you have any questions or ideas, feel free to start a discussion on [GitHub Discussions in autowarefoundation/autoware](https://github.com/autowarefoundation/autoware/discussions).
 
 ### Useful resources
 - [Autoware documentation](https://autowarefoundation.github.io/autoware-documentation/main/) (also [open source](https://github.com/autowarefoundation/autoware-documentation)!)
-- 
-
-### Appendix
-For more information about the Autoware Foundation and Autoware itself, check out our [homepage](https://www.autoware.org/). 
+- [Autoware Foundation homepage](https://www.autoware.org/)
