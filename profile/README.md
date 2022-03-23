@@ -3,6 +3,8 @@
 
 The [Autoware Foundation](https://www.autoware.org/) manages the development of Autoware, the world's leading open-source software project for autonomous driving, and sponsors Autoware-based projects all over the world. Autoware was started in 2015 and is being used by over 100 companies on more than 30 vehicles in over 20 different countries worldwide. 
 
+[![Discord](https://img.shields.io/discord/953808765935816715?label=Join%20Autoware%20Discord&style=for-the-badge)](https://discord.gg/Q94UsPvReQ)
+
 ### Repository overview
 - [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware)
   - Meta-repository containing `.repos` files to construct an Autoware workspace.
