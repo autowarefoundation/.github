@@ -8,5 +8,5 @@ The [Autoware Foundation](https://www.autoware.org/) manages the development of 
 
 - [Autoware Foundation homepage](https://www.autoware.org/)
 - [Autoware Foundation open source projects](https://github.com/autowarefoundation/autoware-projects/wiki#autoware-foundation-open-source-projects)
-- [Overview of Autoware repositories on GitHub](https://github.com/autowarefoundation/autoware#repository-overview)
+- [Autoware main repository](https://github.com/autowarefoundation/autoware)
 - [Autoware documentation](https://autowarefoundation.github.io/autoware-documentation/main/)
