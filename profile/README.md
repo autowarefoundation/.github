@@ -1,6 +1,6 @@
 ## Welcome to the Autoware Foundation! 👋
 
-![awf_logo_white_background](https://user-images.githubusercontent.com/63835446/162110040-7cbceb06-5854-4af4-98ff-2ab77629bacc.png | width=500)
+![awf_logo_white_background](<https://user-images.githubusercontent.com/63835446/162110040-7cbceb06-5854-4af4-98ff-2ab77629bacc.png> | width=500)
 
 The [Autoware Foundation](https://www.autoware.org/) manages the development of Autoware, the world's leading open-source software project for autonomous driving, and sponsors Autoware-based projects all over the world. Autoware is currently being used by over 100 companies on more than 30 vehicles in over 20 different countries worldwide.
 
